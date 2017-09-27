@@ -22,7 +22,7 @@ public class Client {
 		
 		Client c = new Client();
 		c.init();
-		
+		System.out.println("Git Test");		
 		c.view.displayPhone(
 				
 				c.controller.getME("HTC")
